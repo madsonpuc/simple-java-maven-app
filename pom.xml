@@ -9,8 +9,7 @@
   <url>http://maven.apache.org</url>
   
   
-  </build>
-    <dependencies>
+  <dependencies>
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-access</artifactId>
