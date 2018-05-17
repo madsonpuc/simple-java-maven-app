@@ -720,6 +720,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
+                <maven.test.skip>true</maven.test.skip>
                 <logback.loglevel>DEBUG</logback.loglevel>
                 <maven.tomcat.url>localhost:8080</maven.tomcat.url>
                 <maven.war.source.directory>src/main/webapp</maven.war.source.directory>
